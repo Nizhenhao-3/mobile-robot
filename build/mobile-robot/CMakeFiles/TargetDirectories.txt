@@ -1,0 +1,9 @@
+/home/nizhenhao/dev_ws/src/mobile-robot/build/mobile-robot/CMakeFiles/uninstall.dir
+/home/nizhenhao/dev_ws/src/mobile-robot/build/mobile-robot/CMakeFiles/mobile-robot_uninstall.dir
+/home/nizhenhao/dev_ws/src/mobile-robot/build/mobile-robot/CMakeFiles/test.dir
+/home/nizhenhao/dev_ws/src/mobile-robot/build/mobile-robot/CMakeFiles/edit_cache.dir
+/home/nizhenhao/dev_ws/src/mobile-robot/build/mobile-robot/CMakeFiles/rebuild_cache.dir
+/home/nizhenhao/dev_ws/src/mobile-robot/build/mobile-robot/CMakeFiles/list_install_components.dir
+/home/nizhenhao/dev_ws/src/mobile-robot/build/mobile-robot/CMakeFiles/install.dir
+/home/nizhenhao/dev_ws/src/mobile-robot/build/mobile-robot/CMakeFiles/install/local.dir
+/home/nizhenhao/dev_ws/src/mobile-robot/build/mobile-robot/CMakeFiles/install/strip.dir
